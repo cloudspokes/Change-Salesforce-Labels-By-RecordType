@@ -1,0 +1,13 @@
+Change Salesforce Labels By RecordType
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=293
+Challenge end date: Sept 22 05:00:00 GMT 2011
+Winner: http://www.cloudspokes.com/profile.html?username=vinayendra
+
+Description
+===========
+Record types are an extremely powerful feature of salesforce.com that allow you to offer different business processes, segment data and personalize the UI based on user profiles. However, one feature that is lacking is the ability to change a label for a field on a standard page layout based upon its recordtype. For instance, let’s say you have two types of users each with their own recordtypes. On a standard page layout, one set of users want to see an Account lookup field with the label “Account” while the other set of users want to see the same field with the label “Organization”. We suspect a little jQuery magic here will fit the bill. Perhaps with a Visualforce component and custom objects and/or hierarchy custom settings?
+
+Requirements
+============
+Develop a way allow administrators/developers to change one or more labels on a page layout by recordtype for multiple standard or custom objects.
